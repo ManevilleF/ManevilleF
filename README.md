@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a [Shader Graph](https://github.com/ManevilleF/shady-rs) made in Rust and the 2021 [Advent Of Code](https://github.com/ManevilleF/AdventOfCode2021)
+- 🔭 I’m currently working on a [Shader Graph](https://github.com/ManevilleF/shady-rs) made in Rust
 - 📫 How to reach me: [Links](https://linktr.ee/ManevilleF)
 
 [![ManevilleF's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManevilleF&show_icons=true&theme=radical&custom_title=ManevilleF)](https://github.com/anuraghazra/github-readme-stats)
