@@ -8,6 +8,9 @@ My gamedev libs:
 - [bevy_verlet](https://github.com/ManevilleF/bevy_verlet): a verlet integration plugin for bevy
 - [hexx](https://github.com/ManevilleF/hexx): a simple hexagon utilities lib, for hexagonal coordinate, tiles, 3D meshes, etc
 
+My tutorials:
+
+- [Bevy Minesweeper](https://dev.to/qongzi/series/16975): a 12 step course on how to make a cross platform minesweeper using the Bevy engine
 
 [![ManevilleF's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManevilleF&show_icons=true&theme=radical&custom_title=ManevilleF)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManevilleF&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
