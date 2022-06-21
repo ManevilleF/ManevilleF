@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a [Shader Graph](https://github.com/ManevilleF/shady-rs) made in Rust, a [particle system engine](https://github.com/ManevilleF/bevy_tickles) and [cloth physics engine](https://github.com/ManevilleF/bevy_silk) for [bevy][bevy]
+- 🔭 I’m currently working on a [Shader Graph](https://github.com/ManevilleF/shady-rs) made in Rust and a [particle system engine](https://github.com/ManevilleF/bevy_tickles) for [bevy][bevy]
 - 📫 How to reach me: [Links](https://linktr.ee/ManevilleF)
 
 My gamedev libs:
@@ -12,6 +12,8 @@ My gamedev libs:
 My tutorials:
 
 - [Bevy Minesweeper](https://dev.to/qongzi/series/16975): a 12 step course on how to make a cross platform minesweeper using the [Bevy engine][bevy]
+
+You can also use my [bevy template](https://github.com/ManevilleF/bevy_xtemplate) for cross platform games
 
 [![ManevilleF's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManevilleF&show_icons=true&theme=radical&custom_title=ManevilleF)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManevilleF&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
