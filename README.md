@@ -15,6 +15,10 @@ My tutorials:
 
 You can also use my [bevy template](https://github.com/ManevilleF/bevy_xtemplate) for cross platform games
 
+🎄Advent of Code:
+- [2021](https://github.com/ManevilleF/AdventOfCode2021)
+- [2022](https://github.com/ManevilleF/AdventOfCode2022)
+
 [![ManevilleF's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManevilleF&show_icons=true&theme=radical&custom_title=ManevilleF)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManevilleF&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
