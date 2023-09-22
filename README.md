@@ -1,5 +1,4 @@
-- 🔭 I’m currently working on a [Shader Graph](https://github.com/ManevilleF/shady-rs) made in Rust and a [particle system engine](https://github.com/ManevilleF/bevy_tickles) for [bevy][bevy]
-- 📫 How to reach me: [Links](https://linktr.ee/ManevilleF)
+📫 How to reach me: [Links](https://linktr.ee/ManevilleF)
 
 My gamedev libs:
 
