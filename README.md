@@ -2,11 +2,11 @@
 
 My gamedev libs:
 
-- [bevy_tickles](https://github.com/ManevilleF/bevy_tickles): a CPU particle system plugin for [bevy][bevy] (WIP)
-- [bevy_life](https://github.com/ManevilleF/bevy_life): a generic cellular automaton plugin for [bevy][bevy] ([wireworld implementation](https://github.com/ManevilleF/wireworld-rs))
-- [bevy_verlet](https://github.com/ManevilleF/bevy_verlet): a verlet integration plugin for [bevy][bevy]
-- [bevy_silk](https://github.com/ManevilleF/bevy_silk): a cloth physics plugin for [bevy][bevy]
 - [hexx](https://github.com/ManevilleF/hexx): a simple hexagon utilities lib, for hexagonal coordinate, tiles, 3D meshes, etc
+- [bevy_silk](https://github.com/ManevilleF/bevy_silk): a cloth physics plugin for [bevy][bevy]
+- [bevy_verlet](https://github.com/ManevilleF/bevy_verlet): a verlet integration plugin for [bevy][bevy]
+- [bevy_life](https://github.com/ManevilleF/bevy_life): a generic cellular automaton plugin for [bevy][bevy] ([wireworld implementation](https://github.com/ManevilleF/wireworld-rs))
+- [bevy_tickles](https://github.com/ManevilleF/bevy_tickles): a CPU particle system plugin for [bevy][bevy] (WIP)
 
 My tutorials:
 
